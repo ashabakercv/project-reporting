@@ -1,0 +1,13 @@
+{
+  "name": "project-reporting",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A small portfolio dashboard with transparent definitions and traceable source data.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

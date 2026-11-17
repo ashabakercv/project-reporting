@@ -1,0 +1,7 @@
+id,name,owner,health,complete,total,due,dependency
+DEMO-01,Harbor client launch,Morgan Lee,Blocked,8,12,2026-11-25,Data correction decision
+DEMO-02,Knowledge base refresh,Casey Reed,On track,14,20,2026-12-04,SME article review
+DEMO-03,Approval workflow pilot,Riley Chen,At risk,5,10,2026-11-16,Finance owner confirmation
+DEMO-04,Administrator training,Jordan Ellis,On track,3,6,2026-11-30,Test workspace access
+DEMO-05,Support handoff,Avery Quinn,At risk,7,8,2026-11-17,Receiving owner acknowledgement
+DEMO-06,Status reporting standard,Taylor Brooks,On track,4,4,2026-11-10,None
